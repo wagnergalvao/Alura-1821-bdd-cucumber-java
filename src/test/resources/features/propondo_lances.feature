@@ -33,4 +33,13 @@ Feature: Propondo lances
     And Informo um lance valido de 39.99 reais do usuario "ciclano"
     When Propor os lances
     Then Adiciona os lances com sucesso
-    
+  
+  Scenario Outline: Propondo um unico lance invalido
+    Given Informo um lance invalido de <valor> reais do usuario '<usuario>'
+    When Propor o lance
+    Then Nao adiciona o lance
+
+    Examples:
+    | valor | usuario |
+    | 0     | fulano  |
+    | -0.99 | clicano |

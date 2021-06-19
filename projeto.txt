@@ -1,0 +1,1706 @@
+ O volume na unidade C ‚ Windows
+ O N£mero de S‚rie do Volume ‚ 64AD-7056
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java
+
+19/06/2021  09:16    <DIR>          .
+19/06/2021  09:16    <DIR>          ..
+18/06/2021  10:36             1.517 .classpath
+08/08/2020  08:06               341 .gitignore
+17/06/2021  17:22               580 .project
+17/06/2021  17:22    <DIR>          .settings
+08/08/2020  08:06               969 comandos.txt
+08/08/2020  08:06               762 docker-compose.yml
+08/08/2020  08:06    <DIR>          drivers
+08/08/2020  08:06             6.358 pom.xml
+19/06/2021  09:41                 0 projeto.txt
+08/08/2020  08:06    <DIR>          src
+17/06/2021  17:22    <DIR>          target
+               7 arquivo(s)         10.527 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git
+
+18/06/2021  18:23                34 COMMIT_EDITMSG
+18/06/2021  18:23               323 config
+17/06/2021  17:11                73 description
+17/06/2021  17:11                23 HEAD
+17/06/2021  17:11    <DIR>          hooks
+18/06/2021  18:23             9.782 index
+17/06/2021  17:11    <DIR>          info
+17/06/2021  19:35    <DIR>          logs
+18/06/2021  18:23    <DIR>          objects
+17/06/2021  19:36    <DIR>          refs
+               5 arquivo(s)         10.235 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\hooks
+
+17/06/2021  17:11    <DIR>          .
+17/06/2021  17:11    <DIR>          ..
+17/06/2021  17:11               478 applypatch-msg.sample
+17/06/2021  17:11               896 commit-msg.sample
+17/06/2021  17:11             4.655 fsmonitor-watchman.sample
+17/06/2021  17:11               189 post-update.sample
+17/06/2021  17:11               424 pre-applypatch.sample
+17/06/2021  17:11             1.643 pre-commit.sample
+17/06/2021  17:11               416 pre-merge-commit.sample
+17/06/2021  17:11             1.348 pre-push.sample
+17/06/2021  17:11             4.898 pre-rebase.sample
+17/06/2021  17:11               544 pre-receive.sample
+17/06/2021  17:11             1.492 prepare-commit-msg.sample
+17/06/2021  17:11             3.635 update.sample
+              12 arquivo(s)         20.618 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\info
+
+17/06/2021  17:11    <DIR>          .
+17/06/2021  17:11    <DIR>          ..
+17/06/2021  17:11               240 exclude
+               1 arquivo(s)            240 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\logs
+
+17/06/2021  19:35    <DIR>          .
+17/06/2021  19:35    <DIR>          ..
+18/06/2021  18:23               568 HEAD
+17/06/2021  19:36    <DIR>          refs
+               1 arquivo(s)            568 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\logs\refs
+
+17/06/2021  19:36    <DIR>          .
+17/06/2021  19:36    <DIR>          ..
+17/06/2021  19:35    <DIR>          heads
+17/06/2021  19:36    <DIR>          remotes
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\logs\refs\heads
+
+17/06/2021  19:35    <DIR>          .
+17/06/2021  19:35    <DIR>          ..
+18/06/2021  18:23               568 master
+               1 arquivo(s)            568 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\logs\refs\remotes
+
+17/06/2021  19:36    <DIR>          .
+17/06/2021  19:36    <DIR>          ..
+17/06/2021  19:36    <DIR>          origin
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\logs\refs\remotes\origin
+
+17/06/2021  19:36    <DIR>          .
+17/06/2021  19:36    <DIR>          ..
+18/06/2021  18:23               477 master
+               1 arquivo(s)            477 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects
+
+18/06/2021  18:23    <DIR>          .
+18/06/2021  18:23    <DIR>          ..
+17/06/2021  19:35    <DIR>          01
+17/06/2021  19:35    <DIR>          03
+17/06/2021  19:35    <DIR>          07
+18/06/2021  18:23    <DIR>          08
+17/06/2021  19:35    <DIR>          09
+17/06/2021  19:35    <DIR>          0a
+17/06/2021  19:35    <DIR>          0d
+17/06/2021  19:35    <DIR>          0f
+18/06/2021  16:39    <DIR>          10
+17/06/2021  19:35    <DIR>          11
+17/06/2021  19:35    <DIR>          13
+17/06/2021  19:35    <DIR>          15
+17/06/2021  19:35    <DIR>          16
+17/06/2021  19:35    <DIR>          18
+17/06/2021  19:35    <DIR>          20
+17/06/2021  19:35    <DIR>          22
+18/06/2021  18:23    <DIR>          24
+18/06/2021  18:23    <DIR>          25
+17/06/2021  19:35    <DIR>          26
+18/06/2021  18:23    <DIR>          28
+17/06/2021  19:35    <DIR>          29
+17/06/2021  19:35    <DIR>          2a
+18/06/2021  16:39    <DIR>          2b
+18/06/2021  18:23    <DIR>          2d
+17/06/2021  19:35    <DIR>          35
+18/06/2021  16:39    <DIR>          38
+17/06/2021  19:35    <DIR>          39
+17/06/2021  19:35    <DIR>          3a
+18/06/2021  16:39    <DIR>          3b
+17/06/2021  19:35    <DIR>          3f
+17/06/2021  19:35    <DIR>          42
+18/06/2021  16:39    <DIR>          44
+17/06/2021  19:35    <DIR>          45
+17/06/2021  19:35    <DIR>          49
+18/06/2021  18:23    <DIR>          4b
+18/06/2021  16:39    <DIR>          4c
+17/06/2021  19:35    <DIR>          4d
+17/06/2021  19:35    <DIR>          55
+17/06/2021  19:35    <DIR>          5a
+17/06/2021  19:35    <DIR>          5b
+17/06/2021  19:35    <DIR>          5c
+17/06/2021  19:35    <DIR>          5d
+17/06/2021  19:35    <DIR>          61
+17/06/2021  19:35    <DIR>          63
+18/06/2021  18:23    <DIR>          64
+18/06/2021  16:39    <DIR>          65
+17/06/2021  19:35    <DIR>          69
+18/06/2021  16:39    <DIR>          6b
+17/06/2021  19:35    <DIR>          6e
+17/06/2021  19:35    <DIR>          6f
+17/06/2021  19:35    <DIR>          72
+17/06/2021  19:35    <DIR>          74
+18/06/2021  16:39    <DIR>          75
+17/06/2021  19:35    <DIR>          76
+17/06/2021  19:35    <DIR>          7a
+18/06/2021  16:39    <DIR>          7d
+17/06/2021  19:35    <DIR>          7f
+17/06/2021  19:35    <DIR>          80
+17/06/2021  19:35    <DIR>          81
+17/06/2021  19:35    <DIR>          83
+17/06/2021  19:35    <DIR>          85
+17/06/2021  19:35    <DIR>          87
+17/06/2021  19:35    <DIR>          88
+17/06/2021  19:35    <DIR>          8e
+17/06/2021  19:35    <DIR>          8f
+17/06/2021  19:35    <DIR>          91
+17/06/2021  19:35    <DIR>          96
+17/06/2021  19:35    <DIR>          98
+17/06/2021  19:35    <DIR>          9b
+18/06/2021  16:39    <DIR>          9d
+17/06/2021  19:35    <DIR>          a0
+17/06/2021  19:35    <DIR>          a1
+17/06/2021  19:35    <DIR>          a3
+17/06/2021  19:35    <DIR>          a4
+17/06/2021  19:35    <DIR>          a5
+17/06/2021  19:35    <DIR>          a6
+17/06/2021  19:35    <DIR>          a8
+17/06/2021  19:35    <DIR>          af
+18/06/2021  18:23    <DIR>          b1
+17/06/2021  19:35    <DIR>          b2
+18/06/2021  18:23    <DIR>          b5
+17/06/2021  19:35    <DIR>          b7
+17/06/2021  19:35    <DIR>          bb
+17/06/2021  19:35    <DIR>          bd
+17/06/2021  19:35    <DIR>          c2
+17/06/2021  19:35    <DIR>          c7
+17/06/2021  19:35    <DIR>          cc
+17/06/2021  19:35    <DIR>          cd
+17/06/2021  19:35    <DIR>          d6
+17/06/2021  19:35    <DIR>          d9
+17/06/2021  19:35    <DIR>          da
+17/06/2021  19:35    <DIR>          de
+17/06/2021  19:35    <DIR>          e0
+17/06/2021  19:35    <DIR>          e2
+17/06/2021  19:35    <DIR>          e3
+17/06/2021  19:35    <DIR>          e5
+17/06/2021  19:35    <DIR>          e6
+18/06/2021  18:23    <DIR>          e8
+17/06/2021  19:35    <DIR>          e9
+18/06/2021  18:23    <DIR>          ed
+18/06/2021  16:39    <DIR>          ef
+17/06/2021  19:35    <DIR>          f1
+17/06/2021  19:35    <DIR>          f4
+18/06/2021  16:39    <DIR>          f5
+18/06/2021  18:23    <DIR>          f9
+18/06/2021  16:39    <DIR>          fa
+18/06/2021  16:39    <DIR>          fe
+17/06/2021  17:11    <DIR>          info
+17/06/2021  17:11    <DIR>          pack
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\01
+
+17/06/2021  19:35    <DIR>          .
+17/06/2021  19:35    <DIR>          ..
+17/06/2021  19:35                91 4a9c0aa596df237a1ec83fe5613b2ef971055b
+               1 arquivo(s)             91 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\03
+
+17/06/2021  19:35    <DIR>          .
+17/06/2021  19:35    <DIR>          ..
+17/06/2021  19:35               473 766c6f6662783c2b51fc357c1143a0215d44aa
+               1 arquivo(s)            473 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\07
+
+17/06/2021  19:35    <DIR>          .
+17/06/2021  19:35    <DIR>          ..
+17/06/2021  19:35               440 09368e6d09e0e19efacc82d9025553e151ba65
+               1 arquivo(s)            440 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\08
+
+18/06/2021  18:23    <DIR>          .
+18/06/2021  18:23    <DIR>          ..
+17/06/2021  19:35               424 7d0fe01f25bd8207d2d1928af12a29376e1294
+18/06/2021  18:23               701 fc7916752c57c7fdfaa8dcd7c24ed336f3267e
+               2 arquivo(s)          1.125 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\09
+
+17/06/2021  19:35    <DIR>          .
+17/06/2021  19:35    <DIR>          ..
+17/06/2021  19:35               276 4b77d396d9fbd9070a536a18fe82c46d622da1
+               1 arquivo(s)            276 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\0a
+
+17/06/2021  19:35    <DIR>          .
+17/06/2021  19:35    <DIR>          ..
+17/06/2021  19:35             1.067 d4647dc51187afed5cffdc08e385ef85f7855a
+               1 arquivo(s)          1.067 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\0d
+
+17/06/2021  19:35    <DIR>          .
+17/06/2021  19:35    <DIR>          ..
+17/06/2021  19:35               915 61f461d5e27fe82232db757cd2bef71c849925
+17/06/2021  19:35               834 806aec2b123dd8d74de453a618a14a43f1c62f
+               2 arquivo(s)          1.749 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\0f
+
+17/06/2021  19:35    <DIR>          .
+17/06/2021  19:35    <DIR>          ..
+17/06/2021  19:35               291 5db483014eae971c34a42f812454040e685e06
+               1 arquivo(s)            291 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\10
+
+18/06/2021  16:39    <DIR>          .
+18/06/2021  16:39    <DIR>          ..
+18/06/2021  16:39               224 e39abf96b9099c283bc9ae9cebe21f08a6b8d5
+17/06/2021  19:35                84 ff278516e287f22fd23b41c9f90639098588e6
+               2 arquivo(s)            308 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\11
+
+17/06/2021  19:35    <DIR>          .
+17/06/2021  19:35    <DIR>          ..
+17/06/2021  19:35               681 2fcc8df07137d391302855448d1cf677f35572
+               1 arquivo(s)            681 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\13
+
+17/06/2021  19:35    <DIR>          .
+17/06/2021  19:35    <DIR>          ..
+17/06/2021  19:35               178 0bc29fdc9864122d86bc0320afcdb00aa9d848
+               1 arquivo(s)            178 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\15
+
+17/06/2021  19:35    <DIR>          .
+17/06/2021  19:35    <DIR>          ..
+17/06/2021  19:35               474 d4f00a1912658a73410e049f34e41a676e2862
+               1 arquivo(s)            474 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\16
+
+17/06/2021  19:35    <DIR>          .
+17/06/2021  19:35    <DIR>          ..
+17/06/2021  19:35                82 8582eec2eeb7f6d059a941946a6d81ee18b5d0
+               1 arquivo(s)             82 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\18
+
+17/06/2021  19:35    <DIR>          .
+17/06/2021  19:35    <DIR>          ..
+17/06/2021  19:35               164 3b9b3319ed37a8061fe813683b1a3f4de97a34
+               1 arquivo(s)            164 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\20
+
+17/06/2021  19:35    <DIR>          .
+17/06/2021  19:35    <DIR>          ..
+17/06/2021  19:35               366 92126e2d1cee12dd5b60efcc78a797cd2e23a9
+               1 arquivo(s)            366 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\22
+
+17/06/2021  19:35    <DIR>          .
+17/06/2021  19:35    <DIR>          ..
+17/06/2021  19:35                92 140f3a409f29938530dea895bc555d4aebf100
+               1 arquivo(s)             92 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\24
+
+18/06/2021  18:23    <DIR>          .
+18/06/2021  18:23    <DIR>          ..
+18/06/2021  18:23               188 77e0d08a7d817d4e80d8be4a90c5bd0a5aa235
+               1 arquivo(s)            188 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\25
+
+18/06/2021  18:23    <DIR>          .
+18/06/2021  18:23    <DIR>          ..
+18/06/2021  18:23               118 6070b0800b0bcbe81202e7e6fba5bce7afe758
+               1 arquivo(s)            118 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\26
+
+17/06/2021  19:35    <DIR>          .
+17/06/2021  19:35    <DIR>          ..
+17/06/2021  19:35               476 df372a32950eb1a015d690f10b9218aa248444
+               1 arquivo(s)            476 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\28
+
+18/06/2021  18:23    <DIR>          .
+18/06/2021  18:23    <DIR>          ..
+18/06/2021  18:23               224 2487e3cee4d65b1d7ea4f6a3f6a47508c81566
+               1 arquivo(s)            224 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\29
+
+17/06/2021  19:35    <DIR>          .
+17/06/2021  19:35    <DIR>          ..
+17/06/2021  19:35               786 d45cb94311b463dad6abe1f6bd71a725c335eb
+               1 arquivo(s)            786 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\2a
+
+17/06/2021  19:35    <DIR>          .
+17/06/2021  19:35    <DIR>          ..
+17/06/2021  19:35               628 e0fbf08ee68b36b75c0e5ba322afaddc773243
+               1 arquivo(s)            628 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\2b
+
+18/06/2021  16:39    <DIR>          .
+18/06/2021  16:39    <DIR>          ..
+18/06/2021  16:39                69 46989da9ab6b91ef0a9755bd26e506f80330ea
+               1 arquivo(s)             69 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\2d
+
+18/06/2021  18:23    <DIR>          .
+18/06/2021  18:23    <DIR>          ..
+18/06/2021  18:23               102 edec2f8a4fea998c13fa05719e1ada0f8aeff6
+               1 arquivo(s)            102 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\35
+
+17/06/2021  19:35    <DIR>          .
+17/06/2021  19:35    <DIR>          ..
+17/06/2021  19:35               273 a54bf0595027f28217af82c3d32981e121b5e7
+               1 arquivo(s)            273 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\38
+
+18/06/2021  16:39    <DIR>          .
+18/06/2021  16:39    <DIR>          ..
+18/06/2021  16:39                74 b12d3003f1fc24490245d20276c7f33f78c422
+               1 arquivo(s)             74 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\39
+
+17/06/2021  19:35    <DIR>          .
+17/06/2021  19:35    <DIR>          ..
+17/06/2021  19:35               240 29d221cc0545baa3869bee341919a73d230fae
+               1 arquivo(s)            240 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\3a
+
+17/06/2021  19:35    <DIR>          .
+17/06/2021  19:35    <DIR>          ..
+17/06/2021  19:35                82 15562b9af9bc73a56a415b594d9cdf1f1d2d9b
+               1 arquivo(s)             82 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\3b
+
+18/06/2021  16:39    <DIR>          .
+18/06/2021  16:39    <DIR>          ..
+18/06/2021  16:39                50 2f7c83572b816f233fb5da3d47c47650fd0176
+               1 arquivo(s)             50 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\3f
+
+17/06/2021  19:35    <DIR>          .
+17/06/2021  19:35    <DIR>          ..
+17/06/2021  19:35             1.260 5fbac24949d5762bcb3f6aa95112cfc2d5a7d6
+17/06/2021  19:35               184 8701b643068d6bf6b44e0ca35c3802941fecb8
+17/06/2021  19:35                80 d7c5cf87a1f9644287ebc932442e108cb51ed6
+               3 arquivo(s)          1.524 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\42
+
+17/06/2021  19:35    <DIR>          .
+17/06/2021  19:35    <DIR>          ..
+17/06/2021  19:35               569 647ea1dd075559a5ed5f344c99bc0f3d7b34ef
+               1 arquivo(s)            569 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\44
+
+18/06/2021  16:39    <DIR>          .
+18/06/2021  16:39    <DIR>          ..
+18/06/2021  16:39                86 656237369ff68dbbd8c50df8885c8c3be61eae
+               1 arquivo(s)             86 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\45
+
+17/06/2021  19:35    <DIR>          .
+17/06/2021  19:35    <DIR>          ..
+17/06/2021  19:35               675 5902f7f83ff5ffed32cf49f53d7cdd16f0ae58
+               1 arquivo(s)            675 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\49
+
+17/06/2021  19:35    <DIR>          .
+17/06/2021  19:35    <DIR>          ..
+17/06/2021  19:35               349 0c627e713572171ccd30f1d3c6ca5a12ee2d28
+               1 arquivo(s)            349 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\4b
+
+18/06/2021  18:23    <DIR>          .
+18/06/2021  18:23    <DIR>          ..
+18/06/2021  18:23                85 5210f14dcda04cfaebd2bee4ad8b1836e957ab
+               1 arquivo(s)             85 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\4c
+
+18/06/2021  16:39    <DIR>          .
+18/06/2021  16:39    <DIR>          ..
+18/06/2021  16:39               174 e2dfea91e06d0436b89375c0b4bdf880305e1c
+17/06/2021  19:35         1.649.790 e451bc5be381fe702e8cc8a52ba9e1d248ecd8
+               2 arquivo(s)      1.649.964 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\4d
+
+17/06/2021  19:35    <DIR>          .
+17/06/2021  19:35    <DIR>          ..
+17/06/2021  19:35                66 497fcf26c0d666f6714881e02e1803a5bc6bda
+               1 arquivo(s)             66 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\55
+
+17/06/2021  19:35    <DIR>          .
+17/06/2021  19:35    <DIR>          ..
+17/06/2021  19:35               276 c1fcbeb4ba2bef02771ea2748f3e4b0ea5c07d
+               1 arquivo(s)            276 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\5a
+
+17/06/2021  19:35    <DIR>          .
+17/06/2021  19:35    <DIR>          ..
+17/06/2021  19:35               629 d20e92478467dce0248b51f7cec46553a1a779
+               1 arquivo(s)            629 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\5b
+
+17/06/2021  19:35    <DIR>          .
+17/06/2021  19:35    <DIR>          ..
+17/06/2021  19:35               763 ccba8fe19cc30047d70c7dbfe7f5e587a1d7c8
+               1 arquivo(s)            763 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\5c
+
+17/06/2021  19:35    <DIR>          .
+17/06/2021  19:35    <DIR>          ..
+17/06/2021  19:35               124 8c49e860d00343e50e67050694b4c2137be5dd
+               1 arquivo(s)            124 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\5d
+
+17/06/2021  19:35    <DIR>          .
+17/06/2021  19:35    <DIR>          ..
+17/06/2021  19:35               802 44435bd0404e9fd11192485ec1026c8766e9ea
+               1 arquivo(s)            802 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\61
+
+17/06/2021  19:35    <DIR>          .
+17/06/2021  19:35    <DIR>          ..
+17/06/2021  19:35               866 0d4a46a23e385ed07cbd9b32487781c9f016bc
+17/06/2021  19:35               154 f84d84f2a96abb183a57261c32a9063a18aaf2
+               2 arquivo(s)          1.020 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\63
+
+17/06/2021  19:35    <DIR>          .
+17/06/2021  19:35    <DIR>          ..
+17/06/2021  19:35               894 2f8adaa13d1525075230b95818a374018280b6
+               1 arquivo(s)            894 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\64
+
+18/06/2021  18:23    <DIR>          .
+18/06/2021  18:23    <DIR>          ..
+18/06/2021  18:23                82 e1bf7ac64d906736ba4e09ee7195d0a1e7d6e7
+               1 arquivo(s)             82 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\65
+
+18/06/2021  16:39    <DIR>          .
+18/06/2021  16:39    <DIR>          ..
+18/06/2021  16:39                67 0f5bbe1aa6f2fa6fb67f792cd80bdfef238eee
+               1 arquivo(s)             67 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\69
+
+17/06/2021  19:35    <DIR>          .
+17/06/2021  19:35    <DIR>          ..
+17/06/2021  19:35               246 104f99be2967c14571a111a0fd241b2fcfeb39
+               1 arquivo(s)            246 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\6b
+
+18/06/2021  16:39    <DIR>          .
+18/06/2021  16:39    <DIR>          ..
+18/06/2021  16:39                86 a075551be9c0ecfad38f5ca6dfc8f3a73cfd0f
+               1 arquivo(s)             86 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\6e
+
+17/06/2021  19:35    <DIR>          .
+17/06/2021  19:35    <DIR>          ..
+17/06/2021  19:35               883 671deb621ecc78eb4a89e3aed7a6e999701bac
+               1 arquivo(s)            883 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\6f
+
+17/06/2021  19:35    <DIR>          .
+17/06/2021  19:35    <DIR>          ..
+17/06/2021  19:35               102 b2269ea8cb0d803182136b6786eb0e7578b8a1
+               1 arquivo(s)            102 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\72
+
+17/06/2021  19:35    <DIR>          .
+17/06/2021  19:35    <DIR>          ..
+17/06/2021  19:35               276 1309a7ffbaaf261dea2edb49ebee88ac92c98f
+               1 arquivo(s)            276 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\74
+
+17/06/2021  19:35    <DIR>          .
+17/06/2021  19:35    <DIR>          ..
+17/06/2021  19:35               114 b5303d67c8521424a24a36f40c46df4c28a7b9
+               1 arquivo(s)            114 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\75
+
+18/06/2021  16:39    <DIR>          .
+18/06/2021  16:39    <DIR>          ..
+18/06/2021  16:39               118 b37959056fa9dba597c672e3d366ed599ac091
+               1 arquivo(s)            118 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\76
+
+17/06/2021  19:35    <DIR>          .
+17/06/2021  19:35    <DIR>          ..
+17/06/2021  19:35                85 72889d42c7d0870d6327ab4d2abe6f251b1e80
+               1 arquivo(s)             85 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\7a
+
+17/06/2021  19:35    <DIR>          .
+17/06/2021  19:35    <DIR>          ..
+17/06/2021  19:35            31.904 099557f4af9d929c9e6433bd9d3267f9479840
+               1 arquivo(s)         31.904 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\7d
+
+18/06/2021  16:39    <DIR>          .
+18/06/2021  16:39    <DIR>          ..
+18/06/2021  16:39               594 68656c8c9b3ca6a553d2ad7372700a9b0b286c
+               1 arquivo(s)            594 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\7f
+
+17/06/2021  19:35    <DIR>          .
+17/06/2021  19:35    <DIR>          ..
+17/06/2021  19:35               631 83325569e49dce4ac1fcccbc9c2c48da5fe6c3
+               1 arquivo(s)            631 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\80
+
+17/06/2021  19:35    <DIR>          .
+17/06/2021  19:35    <DIR>          ..
+17/06/2021  19:35                87 57a69ff88ffee6c54d3d1065b8d1c8b59ec793
+               1 arquivo(s)             87 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\81
+
+17/06/2021  19:35    <DIR>          .
+17/06/2021  19:35    <DIR>          ..
+17/06/2021  19:35                85 5a48b2c915d71a02f5a98a19e9878fb2ce3c25
+               1 arquivo(s)             85 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\83
+
+17/06/2021  19:35    <DIR>          .
+17/06/2021  19:35    <DIR>          ..
+17/06/2021  19:35               118 adc8b1d5e11baa510c8f0d4951251bcd113855
+17/06/2021  19:35               474 fb90696e2ea85d38cf0452fe883f0c9139c95e
+               2 arquivo(s)            592 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\85
+
+17/06/2021  19:35    <DIR>          .
+17/06/2021  19:35    <DIR>          ..
+17/06/2021  19:35               272 48815c61ac211fcc3c3ac9c9659654e2d6fa00
+               1 arquivo(s)            272 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\87
+
+17/06/2021  19:35    <DIR>          .
+17/06/2021  19:35    <DIR>          ..
+17/06/2021  19:35               513 141377295bfd2c7e5df73ddccf69116b730005
+               1 arquivo(s)            513 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\88
+
+17/06/2021  19:35    <DIR>          .
+17/06/2021  19:35    <DIR>          ..
+17/06/2021  19:35               556 9962bd4a3d7fe8fd2ce503073ec6d375e0ce79
+               1 arquivo(s)            556 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\8e
+
+17/06/2021  19:35    <DIR>          .
+17/06/2021  19:35    <DIR>          ..
+17/06/2021  19:35               671 5deb2115df724e5dcc8b714d9db9447b22f1b4
+               1 arquivo(s)            671 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\8f
+
+17/06/2021  19:35    <DIR>          .
+17/06/2021  19:35    <DIR>          ..
+17/06/2021  19:35               255 6cf2dd1fbca9f6fec82c9805aa6b459594da88
+               1 arquivo(s)            255 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\91
+
+17/06/2021  19:35    <DIR>          .
+17/06/2021  19:35    <DIR>          ..
+17/06/2021  19:35               468 01d96bea1ab363331220a88ac91616edaa977a
+               1 arquivo(s)            468 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\96
+
+17/06/2021  19:35    <DIR>          .
+17/06/2021  19:35    <DIR>          ..
+17/06/2021  19:35               500 2d0778d720064f32b35c33749a79526cd85ada
+               1 arquivo(s)            500 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\98
+
+17/06/2021  19:35    <DIR>          .
+17/06/2021  19:35    <DIR>          ..
+17/06/2021  19:35               152 22b7c0287074f8a30de88bd5ad92d5c9cd2647
+17/06/2021  19:35               827 4cf58ebc3d76229f37645a3ca9db213ffdd08d
+17/06/2021  19:35                86 ac3762f00ebfaa18fa9d03f0fba21bffa395d0
+17/06/2021  19:35               168 cad405052b2029dd2c3bc6a09783041d607e58
+               4 arquivo(s)          1.233 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\9b
+
+17/06/2021  19:35    <DIR>          .
+17/06/2021  19:35    <DIR>          ..
+17/06/2021  19:35               311 40567f582f30f8af0dcb4f8d063c1ed86cd965
+17/06/2021  19:35               127 74b437cd98debda71204dde8c46e5a66c6a814
+17/06/2021  19:35               360 c337636b5ef0d6120a72abe19de08ff29de759
+               3 arquivo(s)            798 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\9d
+
+18/06/2021  16:39    <DIR>          .
+18/06/2021  16:39    <DIR>          ..
+18/06/2021  16:39               181 b7f7068a838d8aed3a3e5520fb7b6c5431a548
+               1 arquivo(s)            181 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\a0
+
+17/06/2021  19:35    <DIR>          .
+17/06/2021  19:35    <DIR>          ..
+17/06/2021  19:35               167 afca1d82d03388aeee30e76c7e76ec1f1f2105
+               1 arquivo(s)            167 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\a1
+
+17/06/2021  19:35    <DIR>          .
+17/06/2021  19:35    <DIR>          ..
+17/06/2021  19:35               306 1518d085eb7cb956e802e7ea2e183cf7a10780
+17/06/2021  19:35                85 fadb5955cff72aa538ee54313c6a3421ca0faf
+               2 arquivo(s)            391 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\a3
+
+17/06/2021  19:35    <DIR>          .
+17/06/2021  19:35    <DIR>          ..
+17/06/2021  19:35               468 4d60ed9c49834c91e7ad6ca38faca6fde43331
+               1 arquivo(s)            468 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\a4
+
+17/06/2021  19:35    <DIR>          .
+17/06/2021  19:35    <DIR>          ..
+17/06/2021  19:35               118 817a906b35bd6047fdeb74227d3de7094d4746
+               1 arquivo(s)            118 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\a5
+
+17/06/2021  19:35    <DIR>          .
+17/06/2021  19:35    <DIR>          ..
+17/06/2021  19:35               385 2fa91ebd7a8549e593e2f78141917006cb7130
+               1 arquivo(s)            385 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\a6
+
+17/06/2021  19:35    <DIR>          .
+17/06/2021  19:35    <DIR>          ..
+17/06/2021  19:35               244 e8693431e54860fdf997a09035c0dad33d38ef
+               1 arquivo(s)            244 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\a8
+
+17/06/2021  19:35    <DIR>          .
+17/06/2021  19:35    <DIR>          ..
+17/06/2021  19:35               382 e0c57e95738dee270196cf063146648efa3789
+               1 arquivo(s)            382 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\af
+
+17/06/2021  19:35    <DIR>          .
+17/06/2021  19:35    <DIR>          ..
+17/06/2021  19:35                71 eb0e5a7d5150fe44f4293c0e4ce08ef015501d
+               1 arquivo(s)             71 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\b1
+
+18/06/2021  18:23    <DIR>          .
+18/06/2021  18:23    <DIR>          ..
+17/06/2021  19:35               298 52807973171a61a5ef6a864d473fcaeb7e3371
+18/06/2021  18:23               181 cd497388603fa2f9faa08401445d3c7847d60e
+               2 arquivo(s)            479 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\b2
+
+17/06/2021  19:35    <DIR>          .
+17/06/2021  19:35    <DIR>          ..
+17/06/2021  19:35               742 9b6c12b845e8722baea07160f5bba5d7fafe94
+17/06/2021  19:35                82 c9494fde5837c77ba857a407b493703ff85112
+17/06/2021  19:35               201 ca395bb133cf59f144484bbfae9a7b6993ed4d
+               3 arquivo(s)          1.025 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\b5
+
+18/06/2021  18:23    <DIR>          .
+18/06/2021  18:23    <DIR>          ..
+18/06/2021  18:23                86 0fe5999a238c875cd19b04965f3a4e7f8ab170
+18/06/2021  16:39               188 3e5780270f35430735cb59d8875dff5f1a2b74
+               2 arquivo(s)            274 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\b7
+
+17/06/2021  19:35    <DIR>          .
+17/06/2021  19:35    <DIR>          ..
+17/06/2021  19:35             1.303 6c32527298de2b19489d8a7ddaee4b39041628
+               1 arquivo(s)          1.303 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\bb
+
+17/06/2021  19:35    <DIR>          .
+17/06/2021  19:35    <DIR>          ..
+17/06/2021  19:35                46 364d2e700e1204993086c1c155914c24b5c9c8
+               1 arquivo(s)             46 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\bd
+
+17/06/2021  19:35    <DIR>          .
+17/06/2021  19:35    <DIR>          ..
+17/06/2021  19:35         5.122.189 438ce3966432630cd7cd334ea78e4ca8465d11
+               1 arquivo(s)      5.122.189 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\c2
+
+17/06/2021  19:35    <DIR>          .
+17/06/2021  19:35    <DIR>          ..
+17/06/2021  19:35                62 29bca52ffe97d6b3efa97a74b49582f0f8e5f5
+               1 arquivo(s)             62 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\c7
+
+17/06/2021  19:35    <DIR>          .
+17/06/2021  19:35    <DIR>          ..
+17/06/2021  19:35               502 22e21dc7040747eafd752073984087d6ebce04
+               1 arquivo(s)            502 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\cc
+
+17/06/2021  19:35    <DIR>          .
+17/06/2021  19:35    <DIR>          ..
+17/06/2021  19:35                45 c0fd384b12fc55ac92bc461e1951a7a6c9264f
+               1 arquivo(s)             45 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\cd
+
+17/06/2021  19:35    <DIR>          .
+17/06/2021  19:35    <DIR>          ..
+17/06/2021  19:35               505 9b7ca4958f82a133bc482859255841fbe997a8
+               1 arquivo(s)            505 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\d6
+
+17/06/2021  19:35    <DIR>          .
+17/06/2021  19:35    <DIR>          ..
+17/06/2021  19:35               463 052ff5448ef4c6e87c2514a28f154c9bdc921f
+17/06/2021  19:35                89 3e8edddb736778b6b77d1ebd3f2dbfd50e4efe
+               2 arquivo(s)            552 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\d9
+
+17/06/2021  19:35    <DIR>          .
+17/06/2021  19:35    <DIR>          ..
+17/06/2021  19:35               224 1d4902f42d2c1b4f7872c3e75d743bec304781
+               1 arquivo(s)            224 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\da
+
+17/06/2021  19:35    <DIR>          .
+17/06/2021  19:35    <DIR>          ..
+17/06/2021  19:35               296 97b2c5dd9d2038964f6b29db25a9ed155dcc25
+               1 arquivo(s)            296 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\de
+
+17/06/2021  19:35    <DIR>          .
+17/06/2021  19:35    <DIR>          ..
+17/06/2021  19:35               655 97d413ac2e7be98b2c4850e861ae9f2d3cd83a
+               1 arquivo(s)            655 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\e0
+
+17/06/2021  19:35    <DIR>          .
+17/06/2021  19:35    <DIR>          ..
+17/06/2021  19:35               146 eda704f4a16601b4887dc051026a57d0aac03e
+               1 arquivo(s)            146 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\e2
+
+17/06/2021  19:35    <DIR>          .
+17/06/2021  19:35    <DIR>          ..
+17/06/2021  19:35             1.515 45adadf7552a57f0bb0a2bbe71760c6f7f8ffb
+               1 arquivo(s)          1.515 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\e3
+
+17/06/2021  19:35    <DIR>          .
+17/06/2021  19:35    <DIR>          ..
+17/06/2021  19:35               479 ea33e9e06ec265c98566b28a7e85645029adf8
+               1 arquivo(s)            479 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\e5
+
+17/06/2021  19:35    <DIR>          .
+17/06/2021  19:35    <DIR>          ..
+17/06/2021  19:35               548 1eb48fe1c90a1717210f79e44e5ce39087e029
+17/06/2021  19:35               224 8e2b7857aafb87ace3c07be6404636e00684ad
+               2 arquivo(s)            772 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\e6
+
+17/06/2021  19:35    <DIR>          .
+17/06/2021  19:35    <DIR>          ..
+17/06/2021  19:35               465 cea08432298b40a1f634a4bb795129f00aa475
+               1 arquivo(s)            465 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\e8
+
+18/06/2021  18:23    <DIR>          .
+18/06/2021  18:23    <DIR>          ..
+18/06/2021  18:23                84 01f57e85223790e533bd72dab36e9d2554d12f
+17/06/2021  19:35                74 1c5b7f26e5d0c2e403004c3edd3148564ba32f
+               2 arquivo(s)            158 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\e9
+
+17/06/2021  19:35    <DIR>          .
+17/06/2021  19:35    <DIR>          ..
+17/06/2021  19:35                62 21f00aaf19bb261f1cdcfb6fc015f69ca97632
+               1 arquivo(s)             62 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\ed
+
+18/06/2021  18:23    <DIR>          .
+18/06/2021  18:23    <DIR>          ..
+18/06/2021  18:23                69 2d0c2d33da625df42ffae8c4fd77f5a48440ba
+               1 arquivo(s)             69 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\ef
+
+18/06/2021  16:39    <DIR>          .
+18/06/2021  16:39    <DIR>          ..
+17/06/2021  19:35               208 084c6c225b3a4bc215a582d0b870923ac9690b
+18/06/2021  16:39               519 2623fa69282bb4a38590aa8d7b38a24d4a4257
+17/06/2021  19:35               439 4476d1d093e83096fba75c0d8feec433d9e33b
+               3 arquivo(s)          1.166 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\f1
+
+17/06/2021  19:35    <DIR>          .
+17/06/2021  19:35    <DIR>          ..
+17/06/2021  19:35                91 b8f5559216f9dabb8f73d7a75a4afbbeb4fee8
+               1 arquivo(s)             91 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\f4
+
+17/06/2021  19:35    <DIR>          .
+17/06/2021  19:35    <DIR>          ..
+17/06/2021  19:35               278 82713e3e86178892877c8e9ff1c1f7cc3cf62a
+               1 arquivo(s)            278 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\f5
+
+18/06/2021  16:39    <DIR>          .
+18/06/2021  16:39    <DIR>          ..
+17/06/2021  19:35               433 8fd8e7078ef6c2a7b7cb880110b5a85cc25f32
+18/06/2021  16:39                83 bd850e6edca6643769b99f858703d5b1ca2dd3
+               2 arquivo(s)            516 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\f9
+
+18/06/2021  18:23    <DIR>          .
+18/06/2021  18:23    <DIR>          ..
+17/06/2021  19:35               329 042c12095f216ae9efd7ff88b9b65bd2e52b64
+18/06/2021  18:23                74 1bf59f5514495677eb2229078b22192aa6e2da
+17/06/2021  19:35               512 7afe035be3a070d594621a46bfb11379df766b
+               3 arquivo(s)            915 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\fa
+
+18/06/2021  16:39    <DIR>          .
+18/06/2021  16:39    <DIR>          ..
+18/06/2021  16:39                82 2d008d3d79b64399e6487638f567b417fe1908
+17/06/2021  19:35               298 7e262fe83ec2206c5b77a7d717743e5a7e71f4
+               2 arquivo(s)            380 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\fe
+
+18/06/2021  16:39    <DIR>          .
+18/06/2021  16:39    <DIR>          ..
+18/06/2021  16:39               102 f3544c0cfbe8be317d6438a896c08ba536b879
+               1 arquivo(s)            102 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\info
+
+17/06/2021  17:11    <DIR>          .
+17/06/2021  17:11    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\objects\pack
+
+17/06/2021  17:11    <DIR>          .
+17/06/2021  17:11    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\refs
+
+17/06/2021  19:36    <DIR>          .
+17/06/2021  19:36    <DIR>          ..
+18/06/2021  18:23    <DIR>          heads
+17/06/2021  19:36    <DIR>          remotes
+17/06/2021  17:11    <DIR>          tags
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\refs\heads
+
+18/06/2021  18:23    <DIR>          .
+18/06/2021  18:23    <DIR>          ..
+18/06/2021  18:23                41 master
+               1 arquivo(s)             41 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\refs\remotes
+
+17/06/2021  19:36    <DIR>          .
+17/06/2021  19:36    <DIR>          ..
+18/06/2021  18:23    <DIR>          origin
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\refs\remotes\origin
+
+18/06/2021  18:23    <DIR>          .
+18/06/2021  18:23    <DIR>          ..
+18/06/2021  18:23                41 master
+               1 arquivo(s)             41 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.git\refs\tags
+
+17/06/2021  17:11    <DIR>          .
+17/06/2021  17:11    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\.settings
+
+17/06/2021  17:22    <DIR>          .
+17/06/2021  17:22    <DIR>          ..
+18/06/2021  10:36               191 org.eclipse.core.resources.prefs
+17/06/2021  17:22               494 org.eclipse.jdt.core.prefs
+17/06/2021  17:21                90 org.eclipse.m2e.core.prefs
+               3 arquivo(s)            775 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\drivers
+
+08/08/2020  08:06    <DIR>          .
+08/08/2020  08:06    <DIR>          ..
+08/08/2020  08:06         9.036.288 chromedriver.exe
+08/08/2020  08:06         3.531.472 geckodriver.exe
+               2 arquivo(s)     12.567.760 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\src
+
+08/08/2020  08:06    <DIR>          .
+08/08/2020  08:06    <DIR>          ..
+08/08/2020  08:06    <DIR>          main
+18/06/2021  10:34    <DIR>          test
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\src\main
+
+08/08/2020  08:06    <DIR>          .
+08/08/2020  08:06    <DIR>          ..
+08/08/2020  08:06             6.148 .DS_Store
+08/08/2020  08:06    <DIR>          java
+08/08/2020  08:06    <DIR>          resources
+               1 arquivo(s)          6.148 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\src\main\java
+
+08/08/2020  08:06    <DIR>          .
+08/08/2020  08:06    <DIR>          ..
+08/08/2020  08:06             6.148 .DS_Store
+08/08/2020  08:06    <DIR>          br
+               1 arquivo(s)          6.148 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\src\main\java\br
+
+08/08/2020  08:06    <DIR>          .
+08/08/2020  08:06    <DIR>          ..
+08/08/2020  08:06             6.148 .DS_Store
+08/08/2020  08:06    <DIR>          com
+               1 arquivo(s)          6.148 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\src\main\java\br\com
+
+08/08/2020  08:06    <DIR>          .
+08/08/2020  08:06    <DIR>          ..
+08/08/2020  08:06             6.148 .DS_Store
+08/08/2020  08:06    <DIR>          alura
+               1 arquivo(s)          6.148 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\src\main\java\br\com\alura
+
+08/08/2020  08:06    <DIR>          .
+08/08/2020  08:06    <DIR>          ..
+08/08/2020  08:06             6.148 .DS_Store
+08/08/2020  08:06    <DIR>          leilao
+               1 arquivo(s)          6.148 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\src\main\java\br\com\alura\leilao
+
+08/08/2020  08:06    <DIR>          .
+08/08/2020  08:06    <DIR>          ..
+08/08/2020  08:06             6.148 .DS_Store
+08/08/2020  08:06    <DIR>          controller
+08/08/2020  08:06               369 LeilaoApplication.java
+08/08/2020  08:06    <DIR>          model
+08/08/2020  08:06    <DIR>          mudi
+08/08/2020  08:06    <DIR>          repositories
+08/08/2020  08:06    <DIR>          security
+08/08/2020  08:06    <DIR>          service
+               2 arquivo(s)          6.517 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\src\main\java\br\com\alura\leilao\controller
+
+08/08/2020  08:06    <DIR>          .
+08/08/2020  08:06    <DIR>          ..
+08/08/2020  08:06             2.557 DBController.java
+08/08/2020  08:06               954 ErrorController.java
+08/08/2020  08:06               321 IndexController.java
+08/08/2020  08:06             1.637 LanceController.java
+08/08/2020  08:06             2.949 LeilaoController.java
+08/08/2020  08:06               346 LoginController.java
+08/08/2020  08:06             2.656 UsuarioController.java
+               7 arquivo(s)         11.420 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\src\main\java\br\com\alura\leilao\model
+
+08/08/2020  08:06    <DIR>          .
+08/08/2020  08:06    <DIR>          ..
+08/08/2020  08:06               601 CriadorDeLeilao.java
+08/08/2020  08:06             1.691 Lance.java
+08/08/2020  08:06             4.267 Leilao.java
+08/08/2020  08:06             2.410 Usuario.java
+               4 arquivo(s)          8.969 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\src\main\java\br\com\alura\leilao\mudi
+
+08/08/2020  08:06    <DIR>          .
+08/08/2020  08:06    <DIR>          ..
+08/08/2020  08:06    <DIR>          dto
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\src\main\java\br\com\alura\leilao\mudi\dto
+
+08/08/2020  08:06    <DIR>          .
+08/08/2020  08:06    <DIR>          ..
+08/08/2020  08:06               785 NovoLanceDto.java
+08/08/2020  08:06             1.946 NovoLeilaoDto.java
+               2 arquivo(s)          2.731 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\src\main\java\br\com\alura\leilao\repositories
+
+08/08/2020  08:06    <DIR>          .
+08/08/2020  08:06    <DIR>          ..
+08/08/2020  08:06               282 LanceRepository.java
+08/08/2020  08:06               287 LeilaoRepository.java
+08/08/2020  08:06               534 UsuarioRepository.java
+               3 arquivo(s)          1.103 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\src\main\java\br\com\alura\leilao\security
+
+08/08/2020  08:06    <DIR>          .
+08/08/2020  08:06    <DIR>          ..
+08/08/2020  08:06             1.356 LeilaoUserDetails.java
+08/08/2020  08:06               936 UserDetailsServiceImpl.java
+08/08/2020  08:06             2.715 WebSecurityConfig.java
+08/08/2020  08:06             2.923 WebSecurityConfigProfileTest.java
+               4 arquivo(s)          7.930 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\src\main\java\br\com\alura\leilao\service
+
+08/08/2020  08:06    <DIR>          .
+08/08/2020  08:06    <DIR>          ..
+08/08/2020  08:06             1.118 LanceService.java
+               1 arquivo(s)          1.118 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\src\main\resources
+
+08/08/2020  08:06    <DIR>          .
+08/08/2020  08:06    <DIR>          ..
+08/08/2020  08:06             6.148 .DS_Store
+08/08/2020  08:06               428 application-prod.properties
+08/08/2020  08:06               517 application-test.properties
+08/08/2020  08:06               819 data-mysql.sql
+08/08/2020  08:06                81 messages.properties
+08/08/2020  08:06             1.417 schema-mysql.sql
+08/08/2020  08:06    <DIR>          static
+08/08/2020  08:06    <DIR>          templates
+               6 arquivo(s)          9.410 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\src\main\resources\static
+
+08/08/2020  08:06    <DIR>          .
+08/08/2020  08:06    <DIR>          ..
+08/08/2020  08:06    <DIR>          css
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\src\main\resources\static\css
+
+08/08/2020  08:06    <DIR>          .
+08/08/2020  08:06    <DIR>          ..
+08/08/2020  08:06           160.334 bootstrap.min.css
+               1 arquivo(s)        160.334 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\src\main\resources\templates
+
+08/08/2020  08:06    <DIR>          .
+08/08/2020  08:06    <DIR>          ..
+08/08/2020  08:06             1.430 base.html
+08/08/2020  08:06               471 error.html
+08/08/2020  08:06               240 index.html
+08/08/2020  08:06    <DIR>          leilao
+08/08/2020  08:06               918 login.html
+               4 arquivo(s)          3.059 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\src\main\resources\templates\leilao
+
+08/08/2020  08:06    <DIR>          .
+08/08/2020  08:06    <DIR>          ..
+08/08/2020  08:06             1.870 form.html
+08/08/2020  08:06             1.492 index.html
+08/08/2020  08:06             2.535 show.html
+               3 arquivo(s)          5.897 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\src\test
+
+18/06/2021  10:34    <DIR>          .
+18/06/2021  10:34    <DIR>          ..
+08/08/2020  08:06             6.148 .DS_Store
+08/08/2020  08:06    <DIR>          java
+18/06/2021  10:39    <DIR>          resources
+               1 arquivo(s)          6.148 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\src\test\java
+
+08/08/2020  08:06    <DIR>          .
+08/08/2020  08:06    <DIR>          ..
+08/08/2020  08:06             6.148 .DS_Store
+08/08/2020  08:06    <DIR>          br
+               1 arquivo(s)          6.148 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\src\test\java\br
+
+08/08/2020  08:06    <DIR>          .
+08/08/2020  08:06    <DIR>          ..
+08/08/2020  08:06             6.148 .DS_Store
+08/08/2020  08:06    <DIR>          com
+               1 arquivo(s)          6.148 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\src\test\java\br\com
+
+08/08/2020  08:06    <DIR>          .
+08/08/2020  08:06    <DIR>          ..
+08/08/2020  08:06             6.148 .DS_Store
+08/08/2020  08:06    <DIR>          alura
+               1 arquivo(s)          6.148 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\src\test\java\br\com\alura
+
+08/08/2020  08:06    <DIR>          .
+08/08/2020  08:06    <DIR>          ..
+08/08/2020  08:06             6.148 .DS_Store
+18/06/2021  11:06    <DIR>          leilao
+               1 arquivo(s)          6.148 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\src\test\java\br\com\alura\leilao
+
+18/06/2021  11:06    <DIR>          .
+18/06/2021  11:06    <DIR>          ..
+08/08/2020  08:06             8.196 .DS_Store
+18/06/2021  11:23    <DIR>          acceptance
+08/08/2020  08:06    <DIR>          e2e
+08/08/2020  08:06    <DIR>          integration
+08/08/2020  08:06    <DIR>          model
+               1 arquivo(s)          8.196 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\src\test\java\br\com\alura\leilao\acceptance
+
+18/06/2021  11:23    <DIR>          .
+18/06/2021  11:23    <DIR>          ..
+18/06/2021  11:14               279 LeilaoCucumberRunner.java
+18/06/2021  11:23    <DIR>          steps
+               1 arquivo(s)            279 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\src\test\java\br\com\alura\leilao\acceptance\steps
+
+18/06/2021  11:23    <DIR>          .
+18/06/2021  11:23    <DIR>          ..
+18/06/2021  18:13             2.045 PropondoLancesSteps.java
+               1 arquivo(s)          2.045 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\src\test\java\br\com\alura\leilao\e2e
+
+08/08/2020  08:06    <DIR>          .
+08/08/2020  08:06    <DIR>          ..
+08/08/2020  08:06    <DIR>          pages
+08/08/2020  08:06    <DIR>          selenium
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\src\test\java\br\com\alura\leilao\e2e\pages
+
+08/08/2020  08:06    <DIR>          .
+08/08/2020  08:06    <DIR>          ..
+08/08/2020  08:06               771 AlterarLeilaoPage.java
+08/08/2020  08:06               649 Browser.java
+08/08/2020  08:06             1.094 BrowserFactory.java
+08/08/2020  08:06             1.276 DetalhesDoLeilaoPage.java
+08/08/2020  08:06             2.495 LeiloesPage.java
+08/08/2020  08:06             1.561 LoginPage.java
+08/08/2020  08:06             1.198 NovoLeilaoPage.java
+               7 arquivo(s)          9.044 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\src\test\java\br\com\alura\leilao\e2e\selenium
+
+08/08/2020  08:06    <DIR>          .
+08/08/2020  08:06    <DIR>          ..
+08/08/2020  08:06             1.049 E2ETestBase.java
+08/08/2020  08:06             1.544 LanceE2ETest.java
+08/08/2020  08:06             1.348 LeiloesE2ETest.java
+               3 arquivo(s)          3.941 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\src\test\java\br\com\alura\leilao\integration
+
+08/08/2020  08:06    <DIR>          .
+08/08/2020  08:06    <DIR>          ..
+08/08/2020  08:06    <DIR>          controller
+08/08/2020  08:06    <DIR>          repository
+08/08/2020  08:06    <DIR>          service
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\src\test\java\br\com\alura\leilao\integration\controller
+
+08/08/2020  08:06    <DIR>          .
+08/08/2020  08:06    <DIR>          ..
+08/08/2020  08:06             1.331 LeiloesControllerTest.java
+08/08/2020  08:06             1.454 TestBase.java
+               2 arquivo(s)          2.785 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\src\test\java\br\com\alura\leilao\integration\repository
+
+08/08/2020  08:06    <DIR>          .
+08/08/2020  08:06    <DIR>          ..
+08/08/2020  08:06               946 UsuarioRepositoryTest.java
+               1 arquivo(s)            946 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\src\test\java\br\com\alura\leilao\integration\service
+
+08/08/2020  08:06    <DIR>          .
+08/08/2020  08:06    <DIR>          ..
+08/08/2020  08:06             2.686 LanceServiceTest.java
+               1 arquivo(s)          2.686 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\src\test\java\br\com\alura\leilao\model
+
+08/08/2020  08:06    <DIR>          .
+08/08/2020  08:06    <DIR>          ..
+08/08/2020  08:06               553 LanceTest.java
+08/08/2020  08:06             3.969 LeilaoTest.java
+               2 arquivo(s)          4.522 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\src\test\resources
+
+18/06/2021  10:39    <DIR>          .
+18/06/2021  10:39    <DIR>          ..
+18/06/2021  10:40    <DIR>          features
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\src\test\resources\features
+
+18/06/2021  10:40    <DIR>          .
+18/06/2021  10:40    <DIR>          ..
+18/06/2021  15:22             1.172 propondo_lances.feature
+               1 arquivo(s)          1.172 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\target
+
+17/06/2021  17:22    <DIR>          .
+17/06/2021  17:22    <DIR>          ..
+18/06/2021  10:36    <DIR>          classes
+18/06/2021  10:40    <DIR>          test-classes
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\target\classes
+
+18/06/2021  10:36    <DIR>          .
+18/06/2021  10:36    <DIR>          ..
+08/08/2020  08:06             6.148 .DS_Store
+18/06/2021  15:26               428 application-prod.properties
+18/06/2021  15:26               517 application-test.properties
+18/06/2021  10:36    <DIR>          br
+18/06/2021  10:36               819 data-mysql.sql
+18/06/2021  10:36                81 messages.properties
+18/06/2021  10:36    <DIR>          META-INF
+18/06/2021  10:36             1.417 schema-mysql.sql
+18/06/2021  10:36    <DIR>          static
+18/06/2021  10:36    <DIR>          templates
+               6 arquivo(s)          9.410 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\target\classes\br
+
+18/06/2021  10:36    <DIR>          .
+18/06/2021  10:36    <DIR>          ..
+08/08/2020  08:06             6.148 .DS_Store
+18/06/2021  10:36    <DIR>          com
+               1 arquivo(s)          6.148 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\target\classes\br\com
+
+18/06/2021  10:36    <DIR>          .
+18/06/2021  10:36    <DIR>          ..
+08/08/2020  08:06             6.148 .DS_Store
+18/06/2021  10:36    <DIR>          alura
+               1 arquivo(s)          6.148 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\target\classes\br\com\alura
+
+18/06/2021  10:36    <DIR>          .
+18/06/2021  10:36    <DIR>          ..
+08/08/2020  08:06             6.148 .DS_Store
+18/06/2021  10:36    <DIR>          leilao
+               1 arquivo(s)          6.148 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\target\classes\br\com\alura\leilao
+
+18/06/2021  10:36    <DIR>          .
+18/06/2021  10:36    <DIR>          ..
+08/08/2020  08:06             6.148 .DS_Store
+18/06/2021  10:36    <DIR>          controller
+18/06/2021  10:36               745 LeilaoApplication.class
+18/06/2021  10:36    <DIR>          model
+18/06/2021  10:36    <DIR>          mudi
+18/06/2021  10:36    <DIR>          repositories
+18/06/2021  10:36    <DIR>          security
+18/06/2021  10:36    <DIR>          service
+               2 arquivo(s)          6.893 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\target\classes\br\com\alura\leilao\controller
+
+18/06/2021  10:36    <DIR>          .
+18/06/2021  10:36    <DIR>          ..
+18/06/2021  10:36             3.439 DBController.class
+18/06/2021  10:36             1.654 ErrorController.class
+18/06/2021  10:36               729 IndexController.class
+18/06/2021  10:36             3.064 LanceController.class
+18/06/2021  10:36             4.452 LeilaoController.class
+18/06/2021  10:36               666 LoginController.class
+18/06/2021  10:36             3.615 UsuarioController.class
+               7 arquivo(s)         17.619 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\target\classes\br\com\alura\leilao\model
+
+18/06/2021  10:36    <DIR>          .
+18/06/2021  10:36    <DIR>          ..
+18/06/2021  10:36             2.380 CriadorDeLeilao.class
+18/06/2021  10:36             3.013 Lance.class
+18/06/2021  10:36             7.228 Leilao.class
+18/06/2021  10:36             3.516 Usuario.class
+               4 arquivo(s)         16.137 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\target\classes\br\com\alura\leilao\mudi
+
+18/06/2021  10:36    <DIR>          .
+18/06/2021  10:36    <DIR>          ..
+18/06/2021  10:36    <DIR>          dto
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\target\classes\br\com\alura\leilao\mudi\dto
+
+18/06/2021  10:36    <DIR>          .
+18/06/2021  10:36    <DIR>          ..
+18/06/2021  10:36             1.602 NovoLanceDto.class
+18/06/2021  10:36             3.087 NovoLeilaoDto.class
+               2 arquivo(s)          4.689 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\target\classes\br\com\alura\leilao\repositories
+
+18/06/2021  10:36    <DIR>          .
+18/06/2021  10:36    <DIR>          ..
+18/06/2021  10:36               438 LanceRepository.class
+18/06/2021  10:36               441 LeilaoRepository.class
+18/06/2021  10:36               804 UsuarioRepository.class
+               3 arquivo(s)          1.683 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\target\classes\br\com\alura\leilao\security
+
+18/06/2021  10:36    <DIR>          .
+18/06/2021  10:36    <DIR>          ..
+18/06/2021  10:36             1.845 LeilaoUserDetails.class
+18/06/2021  10:36             1.420 UserDetailsServiceImpl.class
+18/06/2021  10:36             7.528 WebSecurityConfig.class
+18/06/2021  10:36             7.172 WebSecurityConfigProfileTest.class
+               4 arquivo(s)         17.965 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\target\classes\br\com\alura\leilao\service
+
+18/06/2021  10:36    <DIR>          .
+18/06/2021  10:36    <DIR>          ..
+18/06/2021  10:36             2.203 LanceService.class
+               1 arquivo(s)          2.203 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\target\classes\META-INF
+
+18/06/2021  10:36    <DIR>          .
+18/06/2021  10:36    <DIR>          ..
+18/06/2021  15:26               206 MANIFEST.MF
+18/06/2021  10:36    <DIR>          maven
+               1 arquivo(s)            206 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\target\classes\META-INF\maven
+
+18/06/2021  10:36    <DIR>          .
+18/06/2021  10:36    <DIR>          ..
+18/06/2021  10:36    <DIR>          br.com.alura.mvc
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\target\classes\META-INF\maven\br.com.alura.mvc
+
+18/06/2021  10:36    <DIR>          .
+18/06/2021  10:36    <DIR>          ..
+18/06/2021  10:36    <DIR>          leilao
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\target\classes\META-INF\maven\br.com.alura.mvc\leilao
+
+18/06/2021  10:36    <DIR>          .
+18/06/2021  10:36    <DIR>          ..
+18/06/2021  15:26               274 pom.properties
+18/06/2021  15:26             6.358 pom.xml
+               2 arquivo(s)          6.632 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\target\classes\static
+
+18/06/2021  10:36    <DIR>          .
+18/06/2021  10:36    <DIR>          ..
+18/06/2021  10:36    <DIR>          css
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\target\classes\static\css
+
+18/06/2021  10:36    <DIR>          .
+18/06/2021  10:36    <DIR>          ..
+18/06/2021  10:36           160.334 bootstrap.min.css
+               1 arquivo(s)        160.334 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\target\classes\templates
+
+18/06/2021  10:36    <DIR>          .
+18/06/2021  10:36    <DIR>          ..
+18/06/2021  10:36             1.430 base.html
+18/06/2021  10:36               471 error.html
+18/06/2021  10:36               240 index.html
+18/06/2021  10:36    <DIR>          leilao
+18/06/2021  10:36               918 login.html
+               4 arquivo(s)          3.059 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\target\classes\templates\leilao
+
+18/06/2021  10:36    <DIR>          .
+18/06/2021  10:36    <DIR>          ..
+18/06/2021  10:36             1.870 form.html
+18/06/2021  10:36             1.492 index.html
+18/06/2021  10:36             2.535 show.html
+               3 arquivo(s)          5.897 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\target\test-classes
+
+18/06/2021  10:40    <DIR>          .
+18/06/2021  10:40    <DIR>          ..
+08/08/2020  08:06             6.148 .DS_Store
+18/06/2021  10:36    <DIR>          br
+18/06/2021  10:40    <DIR>          features
+               1 arquivo(s)          6.148 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\target\test-classes\br
+
+18/06/2021  10:36    <DIR>          .
+18/06/2021  10:36    <DIR>          ..
+08/08/2020  08:06             6.148 .DS_Store
+18/06/2021  10:36    <DIR>          com
+               1 arquivo(s)          6.148 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\target\test-classes\br\com
+
+18/06/2021  10:36    <DIR>          .
+18/06/2021  10:36    <DIR>          ..
+08/08/2020  08:06             6.148 .DS_Store
+18/06/2021  10:36    <DIR>          alura
+               1 arquivo(s)          6.148 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\target\test-classes\br\com\alura
+
+18/06/2021  10:36    <DIR>          .
+18/06/2021  10:36    <DIR>          ..
+08/08/2020  08:06             6.148 .DS_Store
+18/06/2021  11:06    <DIR>          leilao
+               1 arquivo(s)          6.148 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\target\test-classes\br\com\alura\leilao
+
+18/06/2021  11:06    <DIR>          .
+18/06/2021  11:06    <DIR>          ..
+08/08/2020  08:06             8.196 .DS_Store
+18/06/2021  11:23    <DIR>          acceptance
+18/06/2021  10:36    <DIR>          e2e
+18/06/2021  10:36    <DIR>          integration
+18/06/2021  10:36    <DIR>          model
+               1 arquivo(s)          8.196 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\target\test-classes\br\com\alura\leilao\acceptance
+
+18/06/2021  11:23    <DIR>          .
+18/06/2021  11:23    <DIR>          ..
+18/06/2021  11:14               542 LeilaoCucumberRunner.class
+18/06/2021  11:23    <DIR>          steps
+               1 arquivo(s)            542 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\target\test-classes\br\com\alura\leilao\acceptance\steps
+
+18/06/2021  11:23    <DIR>          .
+18/06/2021  11:23    <DIR>          ..
+18/06/2021  18:13             3.920 PropondoLancesSteps.class
+               1 arquivo(s)          3.920 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\target\test-classes\br\com\alura\leilao\e2e
+
+18/06/2021  10:36    <DIR>          .
+18/06/2021  10:36    <DIR>          ..
+18/06/2021  10:36    <DIR>          pages
+18/06/2021  10:36    <DIR>          selenium
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\target\test-classes\br\com\alura\leilao\e2e\pages
+
+18/06/2021  10:36    <DIR>          .
+18/06/2021  10:36    <DIR>          ..
+18/06/2021  10:36             1.372 AlterarLeilaoPage.class
+18/06/2021  10:36             1.693 Browser.class
+18/06/2021  10:36             1.487 BrowserFactory.class
+18/06/2021  10:36             2.772 DetalhesDoLeilaoPage.class
+18/06/2021  10:36             3.980 LeiloesPage.class
+18/06/2021  10:36             2.821 LoginPage.class
+18/06/2021  10:36             1.529 NovoLeilaoPage.class
+               7 arquivo(s)         15.654 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\target\test-classes\br\com\alura\leilao\e2e\selenium
+
+18/06/2021  10:36    <DIR>          .
+18/06/2021  10:36    <DIR>          ..
+18/06/2021  10:36             1.818 E2ETestBase.class
+18/06/2021  10:36             1.933 LanceE2ETest.class
+18/06/2021  10:36             2.276 LeiloesE2ETest.class
+               3 arquivo(s)          6.027 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\target\test-classes\br\com\alura\leilao\integration
+
+18/06/2021  10:36    <DIR>          .
+18/06/2021  10:36    <DIR>          ..
+18/06/2021  10:36    <DIR>          controller
+18/06/2021  10:36    <DIR>          repository
+18/06/2021  10:36    <DIR>          service
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\target\test-classes\br\com\alura\leilao\integration\controller
+
+18/06/2021  10:36    <DIR>          .
+18/06/2021  10:36    <DIR>          ..
+18/06/2021  10:36             2.545 LeiloesControllerTest.class
+18/06/2021  10:36             2.448 TestBase.class
+               2 arquivo(s)          4.993 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\target\test-classes\br\com\alura\leilao\integration\repository
+
+18/06/2021  10:36    <DIR>          .
+18/06/2021  10:36    <DIR>          ..
+18/06/2021  10:36             1.506 UsuarioRepositoryTest.class
+               1 arquivo(s)          1.506 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\target\test-classes\br\com\alura\leilao\integration\service
+
+18/06/2021  10:36    <DIR>          .
+18/06/2021  10:36    <DIR>          ..
+18/06/2021  10:36               920 LanceServiceTest$EmployeeServiceImplTestContextConfiguration.class
+18/06/2021  10:36             3.568 LanceServiceTest.class
+               2 arquivo(s)          4.488 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\target\test-classes\br\com\alura\leilao\model
+
+18/06/2021  10:36    <DIR>          .
+18/06/2021  10:36    <DIR>          ..
+18/06/2021  10:36             1.841 LanceTest.class
+18/06/2021  10:36             3.256 LeilaoTest.class
+               2 arquivo(s)          5.097 bytes
+
+ Pasta de C:\wagner.galvao\java\Alura\Alura-1821-bdd-cucumber-java\target\test-classes\features
+
+18/06/2021  10:40    <DIR>          .
+18/06/2021  10:40    <DIR>          ..
+18/06/2021  15:22             1.172 propondo_lances.feature
+               1 arquivo(s)          1.172 bytes
+
+     Total de Arquivos na Lista:
+             304 arquivo(s)     20.122.681 bytes
+             596 pasta(s)   98.021.826.560 bytes dispon¡veis

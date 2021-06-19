@@ -38,6 +38,11 @@ public class PropondoLancesSteps {
 		this.lancesPropostos.add(lance);
 	}
 
+	@Given("Informo um lance invalido de {double} reais do usuario {string}")
+	public void informo_um_lance_invalido_de_reais_do_usuario(Double valorLance, String nomeUsuario) {
+		lance = new Lance(new Usuario(nomeUsuario), new BigDecimal(valorLance));
+	}
+
 	@When("Propor o lance")
 	public void propor_o_lance() {
 		leilao.propoe(lance);
@@ -61,6 +66,11 @@ public class PropondoLancesSteps {
 			assertEquals(lancesPropostos.get(index).getUsuario(), leilao.getLances().get(index).getUsuario());
 			assertEquals(lancesPropostos.get(index).getValor(), leilao.getLances().get(index).getValor());
 		}
+	}
+
+	@Then("Nao adiciona o lance")
+	public void nao_adiciona_o_lance() {
+		assertEquals(0, leilao.getLances().size());
 	}
 
 }

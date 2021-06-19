@@ -18,7 +18,6 @@ import javax.persistence.OneToOne;
 import javax.validation.constraints.DecimalMin;
 import javax.validation.constraints.NotBlank;
 import javax.validation.constraints.NotNull;
-import javax.validation.constraints.Pattern;
 
 @Entity
 public class Leilao {
@@ -128,7 +127,8 @@ public class Leilao {
 	}
 
 	public boolean propoe(Lance lanceAtual) {
-		
+		if (lanceAtual.getValor().compareTo(BigDecimal.ZERO) <=0)
+			return false;
 		if (this.estaSemLances() || ehUmLanceValido(lanceAtual)) {
 			adicionarLance(lanceAtual);
 			return true;
