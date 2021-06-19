@@ -66,9 +66,14 @@ public class LeiloesPage {
 		return new DetalhesDoLeilaoPage(driver);
 	}
 
+	public boolean estaNaPaginaDeLeiloes() {
+		this.esperaCarregar();
+		return this.driver.getCurrentUrl().endsWith("/leiloes");
+	}
+
 	public void esperaCarregar() {
 		WebDriverWait wait = new WebDriverWait(driver,5);
-		wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//h1[contains(text(),'Todos leilões')]")));
+		wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//h1[contains(text(),'Leilões cadastrados')]")));
 	}
 
 	public boolean naoPodeDarLanceNoLeilaoCriado(String donoDoLeilao) {

@@ -35,11 +35,20 @@ Feature: Propondo lances
     Then Adiciona os lances com sucesso
   
   Scenario Outline: Propondo um unico lance invalido
-    Given Informo um lance invalido de <valor> reais do usuario '<usuario>'
+    Given Informo um lance invalido de <valorLance> reais do usuario '<nomeUsuario>'
     When Propor o lance
     Then Nao adiciona o lance
 
     Examples:
-    | valor | usuario |
-    | 0     | fulano  |
-    | -0.99 | clicano |
+    | valorLance | nomeUsuario |
+    |  0         | fulano      |
+    | -0.99      | clicano     |
+
+  Scenario: Propondo lances do usuario no leilao
+    Given dois lances
+	    | valorLance | nomeUsuario |
+  	  |  99.00     | ciclano      |
+    	|  99.01     | clicano     |
+    When Propor os lances
+    Then Nao adiciona o segundo lance
+  
