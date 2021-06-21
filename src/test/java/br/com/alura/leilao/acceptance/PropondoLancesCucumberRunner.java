@@ -6,7 +6,7 @@ import io.cucumber.junit.Cucumber;
 import io.cucumber.junit.CucumberOptions;
 
 @RunWith(Cucumber.class)
-@CucumberOptions(features = "classpath:features/propondo_lances.feature.feature")
+@CucumberOptions(features = "classpath:features/propondo_lances.feature")
 public class PropondoLancesCucumberRunner {
 
 }

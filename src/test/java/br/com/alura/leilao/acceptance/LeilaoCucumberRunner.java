@@ -6,7 +6,7 @@ import io.cucumber.junit.Cucumber;
 import io.cucumber.junit.CucumberOptions;
 
 @RunWith(Cucumber.class)
-@CucumberOptions(features = "classpath:features")
+@CucumberOptions(features = "classpath:features/leilao.feature")
 public class LeilaoCucumberRunner {
 
 }
